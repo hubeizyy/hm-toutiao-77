@@ -3,6 +3,7 @@
 </template>
 
 <script>
+// 此处组件已导出
 export default {}
 </script>
 
